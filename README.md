@@ -1,6 +1,6 @@
 # tmgdnd
 
-A work-in-progress Twitter bot combining the Mountain Goats and Dungeons & Dragons. made by [@tsheishistoric](http://www.twitter.com/sheishistoric)
+A work-in-progress Twitter bot combining the Mountain Goats and Dungeons & Dragons. made by [@sheishistoric](http://www.twitter.com/sheishistoric)
 
 
 [@tmgdnd](http://www.twitter.com/tmgdnd)
