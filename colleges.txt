@@ -1,8 +1,0 @@
-[
-"Lore",
-"Valor",
-"Glamour",
-"Swords",
-"Whisper",
-"Satire"
-]
